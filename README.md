@@ -1,1 +1,1 @@
-# binary_trees
+All about binary trees.
